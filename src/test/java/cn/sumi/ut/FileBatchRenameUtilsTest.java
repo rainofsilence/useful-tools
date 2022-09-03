@@ -1,8 +1,6 @@
-package cn.simo.ut;
+package cn.sumi.ut;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * @author rainofsilecne
