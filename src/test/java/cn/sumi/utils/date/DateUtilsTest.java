@@ -2,8 +2,6 @@ package cn.sumi.utils.date;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 /**
  * @author rainofsilence
  * @date 2022/9/15 周四
